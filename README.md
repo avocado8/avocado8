@@ -5,7 +5,6 @@
 - ECC 49기 SS 웹FE
 - 2024-2 원스탑튜터 튜터
 
-### ing... 🏃‍➡️
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=staple1231)](https://solved.ac/staple1231/)
 
 ### links
