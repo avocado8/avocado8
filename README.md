@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=staple1231)](https://solved.ac/staple1231/)
 
 ### links
-- ✒️ blog https://day4fternoon.tistory.com/
+- [✒️blog✒ ](https://day4fternoon.tistory.com/)
 <!--
 **avocado8/avocado8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
