@@ -1,5 +1,15 @@
-## Hi there 👋
+## 🐋🖥️💙📘
+### Computer Engineering
+- 2023-2 전공튜터링 튜터
+- 22회 E-PEER 장려상
+- ECC 49기 SS 웹FE
+- 2024-2 원스탑튜터 튜터
 
+### ing... 🏃‍➡️
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=staple1231)](https://solved.ac/staple1231/)
+
+### links
+- ✒️ blog https://day4fternoon.tistory.com/
 <!--
 **avocado8/avocado8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
